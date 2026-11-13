@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Minimal Head Tracker"
+abstract: "Webcam-based head tracker that streams head rotation (yaw, pitch, roll) over OSC, using the MediaPipe Face Landmarker."
+type: software
+authors:
+  - given-names: "Sergio"
+    family-names: "de las Heras"
+license: MIT
+date-released: "2026-11-13"
+repository-code: "https://github.com/sergiodlash/MinimalHeadTracker"
